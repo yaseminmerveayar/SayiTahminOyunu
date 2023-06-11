@@ -1,0 +1,9 @@
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csprojAssemblyReference.cache
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Form1.resources
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.Properties.Resources.resources
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.csproj.GenerateResource.cache
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\yasem\source\repos\SayiTahmin\SayiTahmin\obj\Debug\SayiTahmin.pdb
